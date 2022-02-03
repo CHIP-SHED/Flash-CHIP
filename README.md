@@ -8,7 +8,7 @@ Simplyfies the Flashing Process for the C.H.I.P and PocketC.H.I.P Computer.
 2. Connect the FEL and a GROUND pin of the C.H.I.P (for example, with a paperclip).
 3. Connect the C.H.I.P its micro USB port to a USB port of your Linux machine.
 4. In the Linux machine:
-    - run ` git clone https://github.com/thore-krug/Flash-CHIP.git` to clone this repository.
+    - run ` git clone https://github.com/CHIP-SHED/Flash-CHIP` to clone this repository.
     - `cd` into the location where you stored this repository.
     - run `sudo chmod +x Flash.sh`
     - run `./Flash.sh`
@@ -37,6 +37,6 @@ make install-all install-misc
 cd ../
 ./Flash.sh
 ```
-## Support my work by Donating 
+## You can support the original author of this repo by donating
 
 https://www.paypal.me/a13tech
